@@ -1,0 +1,17 @@
+h6{
+text-align: center; font-family: Oswald; font-weight: bold; font-size: 40px; margin: 30px; top: 980px; position: absolute; right: 42%; transform:translate(-3%,-3%)}
+h5{
+text-align: center; font-family: Arial; font-weight: bold; font-size: 40px; margin: 30px; top: 270px; position: absolute; right: 31%; transform:translate(-3%,-3%)}
+h2{
+text-align: center; font-family: Arial; font-weight: bold; font-size: 40px; margin: 30px; top: 148px; position: absolute; right: 19%; transform:translate(-3%,-3%)} 
+h1 {color: red; font-family: Oswald; font-size: 46px; text-align: center; }
+img{width: 90px; position: absolute; top: 30px; left: 700px;}
+h3{color: white; font-size:30px; text-align:center;font-family:Oswald;}
+body{min-height:100vw;}
+.um{background-color: #212121; position: absolute; top:57%; left: 25%; transform:translate(-30%,-35%); padding:24px; border-radius: 25px;}
+.dois{background-color: #212121; position: absolute; top:57%; right:7%; transform:translate(-30%,-35%); padding:23px; border-radius:25px;}
+.tres{background-color: #212121; position: absolute; top:92%; left:44%; transform:translate(-30%,-35%); padding:25px; border-radius:7%;}
+h4{ color:white;font-size:25px; text-align:center;font-family:oswald;}
+
+.fichas{background-color: #212121; position: absolute; top:144%; left:44%; transform:translate(-30%,-35%); padding:25px; border-radius:6%;}
+h4{ color:white;font-size:25px; text-align:center;font-family:oswald;}
